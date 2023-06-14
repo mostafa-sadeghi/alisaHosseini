@@ -49,14 +49,14 @@ numbers = [1,4,6,7,90,45]
 # result = add_even_numbers(numbers)
 # print(result)
 
-def find_even_numbers(mylist):
-    even_numbers = []
-    for n in mylist:
-        if n % 2 == 0:
-            even_numbers.append(n)
+# def find_even_numbers(mylist):
+#     even_numbers = []
+#     for n in mylist:
+#         if n % 2 == 0:
+#             even_numbers.append(n)
 
-    return even_numbers
+#     return even_numbers
 
-result = find_even_numbers(numbers)
-print(result)
+# result = find_even_numbers(numbers)
+# print(result)
 
